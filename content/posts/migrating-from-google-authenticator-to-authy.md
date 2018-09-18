@@ -1,6 +1,6 @@
 +++
 author = "Sean Dunbar"
-date = 0001-01-01T00:00:00Z
+date = 2016-11-26T00:00:00Z
 description = ""
 draft = false
 slug = "migrating-from-google-authenticator-to-authy"

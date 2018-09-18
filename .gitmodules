@@ -3,5 +3,5 @@
 	url = https://github.com/luizdepra/hugo-coder.git
 [submodule "public"]
 	path = public
-	url = git@github.com:ajubatus/ajubatus.github.io.git
+	url = git@github.com:AJubatus/ajubatus.github.io.git
 	branch = master

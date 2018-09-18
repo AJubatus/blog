@@ -1,6 +1,6 @@
 +++
 author = "Sean Dunbar"
-date = 0001-01-01T00:00:00Z
+date = 2017-10-29T00:00:00Z
 description = ""
 draft = false
 slug = "square-foot-gardening-week-21"

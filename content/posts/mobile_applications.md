@@ -1,6 +1,6 @@
 +++
 author = "Sean Dunbar"
-date = 0001-01-01T00:00:00Z
+date = 2016-12-10T00:00:00Z
 description = ""
 draft = false
 slug = "mobile_applications"

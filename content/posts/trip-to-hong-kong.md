@@ -1,7 +1,7 @@
 +++
 author = "Sean Dunbar"
 categories = ["Personal"]
-date = 0001-01-01T00:00:00Z
+date = 2018-04-29
 description = ""
 draft = false
 slug = "trip-to-hong-kong"
