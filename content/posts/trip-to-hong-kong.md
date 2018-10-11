@@ -15,7 +15,7 @@ After my 2 weeks working in Taiwan, I figured I'd spend some time in Hong Kong, 
 You can see all the photos here: https://photos.app.goo.gl/6AD7avHvqYtZaxJ88
 
 # April 21
-![IMG_20180421_204210](/content/images/2018/04/IMG_20180421_204210.jpg)
+![IMG_20180421_204210](/img/hongkong/IMG_20180421_204210.jpg)
 
 I set out from my hotel in Taipei to Taoyuan International Airport early, and had some time to work on my screenshot tool project while waiting to board.
 
@@ -32,7 +32,7 @@ After this I headed over to Keyboard Hell, a seller of Mechanical Keyboards loca
 I headed back to the hotel and was pretty hungry, but I didn't want to go far, so I just bought some Shin Ramyun instant noodles and enjoyed them back in the hotel.
 
 # April 22
-![PANO_20180422_161306](/content/images/2018/04/PANO_20180422_161306.jpg)
+![PANO_20180422_161306](/img/hongkong/PANO_20180422_161306.jpg)
 
 I decided to wander around today, heading west from the hotel. I grabbed some Taro Milk Bubble Tea to enjoy while wandering around, and had lunch in some random Cafe I stumbled across.
 
@@ -49,7 +49,7 @@ There was a Bubba Gump Shrimp nearby, and I was starving, so I decided to eat th
 I overate a little here, but it was worth it :)
 
 # April 23
-![IMG_20180423_141458](/content/images/2018/04/IMG_20180423_141458.jpg)
+![IMG_20180423_141458](/img/hongkong/IMG_20180423_141458.jpg)
 
 Decided to head to Tian Tan Buddha and Po Lin Monastery today, so I got up early and took the MTR to Tung Chung Station.
 
@@ -68,7 +68,7 @@ This looked kinda gross, but was so delicious, my only regret is that I didn't g
 After this I wandered over to In's Point, another place that sells plenty of anime figurines, where I bought a JoJo's Bizzare Adenture figurine :)
 
 # April 24
-![IMG_20180424_141430](/content/images/2018/04/IMG_20180424_141430.jpg)
+![IMG_20180424_141430](/img/hongkong/IMG_20180424_141430.jpg)
 
 Today I decided to try and get some Dim Sum for lunch. I've never had it before and it looked awesome! So I set off to IFC Mall to eat at Tim Ho Wan, which has a Michelin star! It took me a while to find the place as anyone I asked didn't speak English and Google Maps just showed a picture of outside the mall (it does this for a LOT of places in Hong Kong).
 
@@ -87,7 +87,7 @@ After this, I went back to Mong Kok and trawled through Ladies Market, picking u
 In Keyboard Hell, I bought the Leopold FC660C, and had a great chat with the owner for about 30 minutes about Topre switches, and Realforce and Topre's attitude toward the community that want Topre switches. It was a great chat despite the language barrier, and he even gave me a metal keycap of his shop's logo :)
 
 # April 25
-![IMG_20180425_203708](/content/images/2018/04/IMG_20180425_203708.jpg)
+![IMG_20180425_203708](/img/hongkong/IMG_20180425_203708.jpg)
 
 No idea what to do, wandered, flagstaff tea museum! 
 I had no idea what to do today, so I wandered over towards Hong Kong Park! Here I visited the Flagstaff House Museum of Tea Ware. This place was incredible! It was a journey through the history of tea ware, and talked about how the methods and tea ware evolved and the influence European traders had on tea ware.
@@ -97,9 +97,8 @@ After this, I wandered through Mong Kok again, picking up more goodies for famil
 The light show was honestly quite overhyped, but still enjoyable. Afterwards I decided I wanted to enjoy some alcohol, so I headed to the Sky Lounge in the nearby Sheraton hotel, and enjoyed a Manhattan and one of their own creations, the Peak Tower. This was Bourbon, Caramel, Chocolate Bitters, and Orange Peel :3
 
 # April 26
-![IMG_20180426_172136](/content/images/2018/04/IMG_20180426_172136.jpg)
+![IMG_20180426_172136](/img/hongkong/IMG_20180426_172136.jpg)
 
-Again no idea what to do, more wandering, tomato noodles, shanghai street, cleaver.
 Final day! No idea what to do, so I headed off to Shing Heung Yuen for some tomato noodles. I was choosing between this place and Kau Kee Beef Brisket across the road, but the negative reputation for the service staff there (and the delicious smell of tomato) made me choose Shing Heung Yuen instead :)
 
 I went for "Tomato, Pork Chop, Sausage, And Egg" on instant noodles, along with a Pork Chop "Crispy Bun". These were both incredibly delicious, if I'm back in Hong Kong again, I'll be going back to here, Sun Kee, and Tim Ho Wan.
@@ -113,6 +112,6 @@ I ended up buying a #2 Cleaver in Chan Chi Kee cutlery, this is a fully metal, s
 After this, I headed back to the hotel to pack, as I had to fly back home in the morning :3
 
 # April 27
-![IMG_20180427_131848](/content/images/2018/04/IMG_20180427_131848.jpg)
+![IMG_20180427_131848](/img/hongkong/IMG_20180427_131848.jpg)
 
 Flight back to Dublin! This was mostly uneventful, so I won't write much here. I had a great time and if I'm ever back, I'm definitely getting more baked pork buns and cheese noodles :3
