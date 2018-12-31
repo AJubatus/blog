@@ -1,6 +1,6 @@
 baseurl = "https://sdunbar.me" # Hostname (and path) to the root.
 title = "Technobabble" # Site title.
-theme = "coder" # Set the theme.
+theme = "hugo-coder" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "en" # The default content language.
 
