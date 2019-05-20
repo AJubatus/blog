@@ -28,4 +28,12 @@ I also bought a Moleskine journal in a discount section in the middle of the mal
 On the Friday I also started a new medicine, Concerta XL, for my ADHD. It's taken me almost 9 months to get to this stage but I'm glad to finally be getting the medication I need for this. It's noticeable easier to focus and to shift my focus onto things.
 
 # April 21
+Took subway to Marina Bay Sands, wanted to have some Kaya toast then hang out with friends. Went to Toast Box based on recommendations of local friends.
+
+Kaya is delicious!! I was slightly turned off by the half-boiled eggs at first but it's so delicious to dip the toast into them. One of my other friends didn't quite enjoy it as much :)
+
+Afterwards, we wandered towards Gardens by the Bay. Saw some wild otters in the bay!! Also had a very overpriced Tiger, tourist prices. We didn't go into any of the garden domes because the entry price was pretty ridiculous.
+
+We made our own ways back after this, I had a wander again of The Shoppes at Marina Bay Sands. Extremely "high end" shops, nothing that I'm interested in :(
+
 
