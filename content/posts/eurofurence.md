@@ -1,6 +1,6 @@
 +++ 
-draft = true
-date = 2019-08-25T16:54:29+01:00
+draft = false
+date = 2019-09-03T16:31:29+01:00
 title = "Eurofurence 25"
 slug = "ef-25" 
 tags = []
